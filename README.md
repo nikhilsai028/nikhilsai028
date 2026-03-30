@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nikhil Sai Yalakala
+# Hi 👋, I'm Nikhil Sai 
 Data Analyst | SQL • Python • Power BI • Excel | Data Analytics Enthusiast
 
 ---
