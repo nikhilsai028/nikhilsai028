@@ -94,8 +94,8 @@ Data Exploration & Visualization
 
 ## 📫 Contact
 
-📧 nikhilsai028@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/nikhilsai028/
+📧 nikhilsai028@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/nikhilsai028/ <br>
 💻 GitHub: https://github.com/nikhilsai028
 
 ---
