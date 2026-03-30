@@ -44,7 +44,7 @@ Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn
 ## 📊 Featured Projects
 
 ### 📦 E-commerce Logistics Optimization (SleepyCat)
-🔗 GitHub Repository
+🔗 https://github.com/YOUR_USERNAME/sleepycat-logistics-optimization-analysis
 
 - Analyzed **30,853 logistics orders**
 - Identified **49.3% cross-zone mismatches**
@@ -54,34 +54,32 @@ Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn
 ---
 
 ### 🚗 Car Sales Performance Dashboard
-🔗 GitHub Repository
+🔗 https://github.com/YOUR_USERNAME/car-sales-powerbi-dashboard
 
 - Analyzed **13,000+ car sales records**
-- Tracked **$371.2M total revenue**
-- Built Power BI dashboard with **sales growth KPIs**
-- Dealer and region performance analytics
+- Built Power BI dashboard tracking **$371.2M revenue**
+- KPI metrics: **YTD Sales, Sales Growth, Cars Sold**
+- Regional and dealer performance analysis
 
 ---
 
 ### 🛒 Amazon Sales SQL Analysis
-🔗 GitHub Repository
+🔗 https://github.com/YOUR_USERNAME/amazon-sales-sql-analysis
 
 - Analyzed **12,000+ e-commerce transactions**
-- Developed **30+ SQL analytical queries**
+- Developed **30+ analytical SQL queries**
 - Identified **top-selling products and high-value customers**
 - Payment method and regional sales analysis
 
 ---
 
 ### 🎁 Ferns N Petals Sales Dashboard
-🔗 GitHub Repository
+🔗 https://github.com/YOUR_USERNAME/ferns-n-petals-sales-analysis
 
 - Analyzed **8,000+ sales records**
-- Built Excel dashboard for **₹35,20,984 revenue**
-- Customer spend analysis and seasonal demand insights
-
----
-
+- Built Excel dashboard tracking **₹35,20,984 revenue**
+- Customer spending patterns and seasonal demand analysis
+  
 ## 📈 Analytics Focus
 
 Business Intelligence  
