@@ -37,7 +37,8 @@ Data Cleaning • Data Transformation • Data Modeling
 
 ## 🛠 Tech Stack
 
-Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn
+🐍 Python • 🗄 SQL • 📊 Power BI • 📑 Excel  
+🐼 Pandas • 🔢 NumPy • 📈 Matplotlib • 🎨 Seaborn
 
 ---
 
