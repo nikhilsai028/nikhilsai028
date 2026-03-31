@@ -5,7 +5,7 @@ Data Analyst | SQL • Python • Power BI • Excel | Data Analytics Enthusiast
 
 ## 🚀 About Me
 
-Hi, I’m **Nikhil Sai Yalakala**, a Data Analyst passionate about transforming raw data into meaningful insights and building data-driven solutions.
+Hi, I’m **Nikhil Sai**, a Data Analyst passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
 I work with **SQL, Python, Advanced Excel, and Power BI** to analyze business data, identify patterns, and create dashboards that support decision-making.
 
