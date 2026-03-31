@@ -45,7 +45,7 @@ Data Cleaning • Data Transformation • Data Modeling
 ## 📊 Featured Projects
 
 ### 📦 E-commerce Logistics Optimization (SleepyCat)
-🔗 https://github.com/YOUR_USERNAME/sleepycat-logistics-optimization-analysis
+🔗  https://github.com/nikhilsai028/sleepycat-logistics-optimization-analysis
 
 - Analyzed **30,853 logistics orders**
 - Identified **49.3% cross-zone mismatches**
@@ -55,7 +55,7 @@ Data Cleaning • Data Transformation • Data Modeling
 ---
 
 ### 🚗 Car Sales Performance Dashboard
-🔗 https://github.com/YOUR_USERNAME/car-sales-powerbi-dashboard
+🔗  https://github.com/nikhilsai028/car-sales-powerbi-dashboard
 
 - Analyzed **13,000+ car sales records**
 - Built Power BI dashboard tracking **$371.2M revenue**
@@ -65,7 +65,7 @@ Data Cleaning • Data Transformation • Data Modeling
 ---
 
 ### 🛒 Amazon Sales SQL Analysis
-🔗 https://github.com/YOUR_USERNAME/amazon-sales-sql-analysis
+🔗  https://github.com/nikhilsai028/amazon-sales-sql-analysis
 
 - Analyzed **12,000+ e-commerce transactions**
 - Developed **30+ analytical SQL queries**
@@ -75,7 +75,7 @@ Data Cleaning • Data Transformation • Data Modeling
 ---
 
 ### 🎁 Ferns N Petals Sales Dashboard
-🔗 https://github.com/YOUR_USERNAME/ferns-n-petals-sales-analysis
+🔗 https://github.com/nikhilsai028/ferns-n-petals-sales-analysis
 
 - Analyzed **8,000+ sales records**
 - Built Excel dashboard tracking **₹35,20,984 revenue**
